@@ -97,7 +97,7 @@ ul {list-style-type: none;}
     text-align: center;
     margin-bottom: 5px;
     font-size: 1.2em;
-    color:black;
+    color:grey;
     font-family: 'Caveat', cursive;
 }
 
@@ -138,4 +138,28 @@ a:active {
 	color: black;
 	font-family: 'Caveat', cursive;
 	font-size: 1.5em;
+}
+
+h3{
+	text-align: center;
+	font-family: 'Palanquin Dark', sans-serif;
+}
+
+a.movies:link{
+	text-decoration: none;
+	color: red;
+}
+
+a.movies:visited {
+	text-decoration: none;
+	color: red;
+}
+
+a.movies:hover {
+	text-decoration: none;
+	color: white;
+}
+
+a.movies:active {
+	text-decoration: none;
 }
